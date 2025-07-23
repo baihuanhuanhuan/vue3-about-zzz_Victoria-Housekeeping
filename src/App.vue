@@ -86,7 +86,7 @@ html,body {
   scroll-snap-align: start;
 }
 .with-bg{
-  background-image: url('/bkgr.png');
+  background-image: url('./bkgr.png');
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
