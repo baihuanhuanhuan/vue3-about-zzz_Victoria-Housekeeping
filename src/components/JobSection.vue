@@ -139,7 +139,7 @@ onUnmounted(()=>{
 })
 </script>
 
-<style>
+<style scoped>
     .jobs{
         height: 100vh;
         position: relative;

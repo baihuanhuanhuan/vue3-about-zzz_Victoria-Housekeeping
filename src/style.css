@@ -81,13 +81,10 @@ button:focus-visible {
   }
 }
 
-/*到这里就是我自己的东西了orz*/
-/*html {
-  scrollbar-width: none;
+.with-bg{
+  background-image: url('./bkgr.png');
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-html {
-  -ms-overflow-style: none;
-}
-html::-webkit-scrollbar{
-  display: none;
-}*/

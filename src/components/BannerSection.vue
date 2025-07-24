@@ -11,7 +11,7 @@
 
 </script>
 
-<style>
+<style scoped>
 .banner{
     height: 100vh;
     width: 100vw;

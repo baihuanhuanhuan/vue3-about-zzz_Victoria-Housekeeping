@@ -26,7 +26,7 @@
 
 </script>
 
-<style>
+<style scoped>
 .footer{
     /*padding:40px 20px;*/
     height: 30vh;
