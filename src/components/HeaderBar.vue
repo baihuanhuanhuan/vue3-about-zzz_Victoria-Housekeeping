@@ -33,7 +33,7 @@
 });
 </script>
 
-<style scoped>
+<style>
     header{
     display: flex;
     justify-content: space-between;

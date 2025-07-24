@@ -26,9 +26,9 @@
 
 </script>
 
-<style scoped>
+<style>
 .footer{
-    
+    /*padding:40px 20px;*/
     height: 30vh;
     display: flex;
     flex-direction: column;

@@ -51,7 +51,7 @@ import{ref,reactive,onMounted,onUnmounted,computed,getCurrentInstance}from'vue'
     })
 </script>
 
-<style scoped>
+<style>
     /*控制内部所有文字的容器兼动画状态 */
     .team{
         position: relative;

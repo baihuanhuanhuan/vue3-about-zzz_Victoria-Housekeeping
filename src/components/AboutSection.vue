@@ -111,7 +111,7 @@
     
 </script>
 
-<style scoped>
+<style>
 /*整个的 */
 .about{
     height: 100vh;
